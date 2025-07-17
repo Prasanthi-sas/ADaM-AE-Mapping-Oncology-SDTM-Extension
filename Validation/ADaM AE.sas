@@ -104,7 +104,7 @@ run;
 
 
 
-?? ADaM Dataset Creation Project – Clinical Trial Programming Author: Prasanthi Kata Role: Statistical Programmer Therapeutic Area: General Clinical Study (Part A) Standards: CDISC (SDTM + ADaM compliant) Tools Used: Base SAS 9.4
+?? ADaM Dataset Creation Project â€“ Clinical Trial Programming Author: Prasanthi Kata Role: Statistical Programmer Therapeutic Area: General Clinical Study (Part A) Standards: CDISC (SDTM + ADaM compliant) Tools Used: Base SAS 9.4
 
 ?? Project Overview This project focuses on the transformation of raw clinical trial data (CDM) into ADaM-ready datasets, especially focusing on the Demographics (DM) domain as part of end-to-end clinical programming. The objective is to clean, merge, and derive subject-level data variables used in both SDTM and ADaM datasets.
 
